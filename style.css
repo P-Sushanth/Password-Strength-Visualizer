@@ -6,7 +6,7 @@
 /* Other styles remain as before: container, headings, buttons, gradients... */
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #f4f6f8;
+    background: #bdbebe;
     color: #333;
     display: flex;
     justify-content: center;
@@ -74,7 +74,7 @@ input[type="text"]:focus {
 
 /* Generate button */
 .btn-primary { 
-    background: linear-gradient(to right, #2575fc, #6a11cb); 
+    background: linear-gradient(to right, #e52d27, #b31217); 
     border: none; 
     padding: 8px 14px; 
     color: #fff; 
@@ -187,12 +187,12 @@ input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none; 
     width: 20px; 
     height: 20px; 
-    background: #2575fc; 
+    background: #e52d27; 
     border-radius: 50%; 
     cursor: pointer; 
     transition: left 0.2s, background 0.3s;
 }
 
 input[type="range"]::-webkit-slider-thumb:hover { 
-    background: #6a11cb; 
+    background: #b31217; 
 }
