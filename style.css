@@ -64,13 +64,15 @@ input[type="text"]:focus {
     height: 36px; 
     display: flex; 
     align-items: center; 
-    justify-content: center; 
+    justify-content: center;
+    color: #e52d27;
+    transition: color 0.2s ease;
 }
 
 .btn-icon span { transition: opacity 0.3s ease; position: absolute; }
 .eye-open { opacity: 1; }
 .eye-closed { opacity: 0; }
-.btn-icon:hover { color: #2575fc; }
+.btn-icon:hover { color: #b31217; }
 
 /* Generate button */
 .btn-primary { 
